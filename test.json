@@ -8,13 +8,13 @@
             "t": "RTR: The man, the myth, the legend",
             "v": 0,
             "s": 1.0,
-            "d": 5.0
+            "d": 60.0
         },
         "opaque ID 2": {
             "t": "RTR BTS: Your taco bell obsession worries us",
             "v": 1,
-            "s": 6.0,
-            "d": 30.0
+            "s": 61.0,
+            "d": 60.0
         }
     }
 }
